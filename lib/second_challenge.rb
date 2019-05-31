@@ -15,6 +15,3 @@ def second_challenge
 	end
 	flat_array
 end
-
-
-
